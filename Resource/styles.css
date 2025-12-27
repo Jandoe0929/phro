@@ -18,11 +18,6 @@
             margin-top: 300px;
         }
     }
-        @media (max-width: 700px) {
-        .sidebar-profile {
-            margin-top: 4.5vw;
-        }
-    }
     html {
         scroll-behavior: smooth;
     }
@@ -184,4 +179,5 @@
         font-family: 'Courier New', Courier, monospace;
         font-size: 3vw;
         text-align: center;
+
     }
